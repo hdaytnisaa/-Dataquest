@@ -1,2 +1,2 @@
 # -Dataquest
-Repository of learning outcomes in in Dataquest
+Repository of learning outcomes in Dataquest
